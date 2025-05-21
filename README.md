@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -20,6 +21,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
