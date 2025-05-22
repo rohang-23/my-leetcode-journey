@@ -46,10 +46,12 @@
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
