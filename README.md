@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 ## Greedy
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohang-23/my-leetcode-journey/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
