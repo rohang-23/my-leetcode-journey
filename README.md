@@ -19,6 +19,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
