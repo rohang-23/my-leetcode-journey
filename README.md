@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rohang-23/my-leetcode-journey/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 ## Divide and Conquer
