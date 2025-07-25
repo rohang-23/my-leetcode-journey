@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
+| [0907-koko-eating-bananas](https://github.com/rohang-23/my-leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -32,6 +33,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/rohang-23/my-leetcode-journey/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
