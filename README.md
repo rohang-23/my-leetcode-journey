@@ -28,6 +28,7 @@
 | [0907-koko-eating-bananas](https://github.com/rohang-23/my-leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
