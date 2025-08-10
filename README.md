@@ -117,6 +117,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1603-running-sum-of-1d-array) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Enumeration
 |  |
 | ------- |
