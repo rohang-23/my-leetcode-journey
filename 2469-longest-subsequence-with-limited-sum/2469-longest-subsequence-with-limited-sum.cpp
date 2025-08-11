@@ -9,14 +9,21 @@ public:
             nums[i] += nums[i - 1];
         }
         for (int i = 0; i < m; i++) {
-            int len = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[j] > queries[i])
-                    break;
-                len++;
+            int maxlen = 0;
+            int low=0;
+            int high=n-1;
+            while(low<=high){
+                int mid = low + (high-low)/2;
+                if(nums[mid]>queries[i]){
+                    high = mid -1;
+                }
+                else{
+                    maxlen = mid + 1;
+                    low = mid + 1;
+                }
             }
-            ans[i] = len;
+        ans[i]=maxlen;
         }
-        return ans;
-    }
+    return ans;
+}
 };
