@@ -29,6 +29,7 @@
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 | [0907-koko-eating-bananas](https://github.com/rohang-23/my-leetcode-journey/tree/master/0907-koko-eating-bananas) |
+| [1138-grumpy-bookstore-owner](https://github.com/rohang-23/my-leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/rohang-23/my-leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
