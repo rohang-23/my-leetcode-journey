@@ -129,6 +129,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
+| [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Math
@@ -169,4 +170,8 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rohang-23/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/rohang-23/my-leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
