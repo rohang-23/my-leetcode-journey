@@ -132,6 +132,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
