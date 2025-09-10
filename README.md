@@ -144,6 +144,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Math
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
