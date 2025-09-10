@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rohang-23/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
