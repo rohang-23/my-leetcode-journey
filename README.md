@@ -41,6 +41,7 @@
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
+| [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
