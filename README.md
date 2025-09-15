@@ -158,6 +158,7 @@
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 ## Backtracking
 |  |
@@ -169,6 +170,7 @@
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,5 +217,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
