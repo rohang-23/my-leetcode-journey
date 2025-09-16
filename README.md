@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/rohang-23/my-leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
