@@ -150,6 +150,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3379-score-of-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
