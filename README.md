@@ -161,6 +161,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
+| [2812-find-the-maximum-achievable-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2812-find-the-maximum-achievable-number) |
 ## Backtracking
 |  |
 | ------- |
