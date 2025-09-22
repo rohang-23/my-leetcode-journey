@@ -43,6 +43,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,12 +116,14 @@
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
