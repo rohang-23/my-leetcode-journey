@@ -36,6 +36,7 @@
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
@@ -104,6 +105,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
+| [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -162,6 +165,7 @@
 | [0066-plus-one](https://github.com/rohang-23/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
