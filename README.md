@@ -166,6 +166,7 @@
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0507-perfect-number) |
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
