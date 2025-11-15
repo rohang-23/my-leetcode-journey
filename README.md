@@ -30,6 +30,7 @@
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rohang-23/my-leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 | [0907-koko-eating-bananas](https://github.com/rohang-23/my-leetcode-journey/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohang-23/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
@@ -195,6 +196,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rohang-23/my-leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohang-23/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
