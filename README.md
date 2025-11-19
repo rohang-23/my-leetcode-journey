@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rohang-23/my-leetcode-journey/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
@@ -169,6 +170,7 @@
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rohang-23/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0507-perfect-number) |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rohang-23/my-leetcode-journey/tree/master/0463-island-perimeter) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
