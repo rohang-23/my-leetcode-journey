@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rohang-23/my-leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
@@ -96,6 +97,7 @@
 | [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 ## Hash Table
 |  |
@@ -112,6 +114,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Sorting
@@ -124,6 +127,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/rohang-23/my-leetcode-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
