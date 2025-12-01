@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/rohang-23/my-leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rohang-23/my-leetcode-journey/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/rohang-23/my-leetcode-journey/tree/master/0605-can-place-flowers) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
