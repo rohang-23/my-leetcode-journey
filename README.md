@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohang-23/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
@@ -163,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohang-23/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rohang-23/my-leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -227,6 +229,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rohang-23/my-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rohang-23/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
