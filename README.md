@@ -52,6 +52,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2812-find-the-maximum-achievable-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
 | ------- |
