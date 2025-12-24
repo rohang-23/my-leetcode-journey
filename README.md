@@ -46,6 +46,7 @@
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -175,6 +176,7 @@
 | [0812-rotate-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3379-score-of-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/3379-score-of-a-string) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
