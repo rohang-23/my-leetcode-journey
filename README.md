@@ -198,6 +198,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2812-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/rohang-23/my-leetcode-journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Backtracking
 |  |
