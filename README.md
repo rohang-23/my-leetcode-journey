@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rohang-23/my-leetcode-journey/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
