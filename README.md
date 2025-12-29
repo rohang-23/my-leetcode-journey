@@ -159,6 +159,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -286,5 +287,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
