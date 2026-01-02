@@ -17,6 +17,6 @@ public:
       }  
       if(a==NULL) temp->next=b;
       else temp->next=a;
-      return c->next;;
+      return c->next;
     }
 };
