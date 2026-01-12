@@ -170,6 +170,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
@@ -265,6 +266,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rohang-23/my-leetcode-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -299,6 +301,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | [0148-sort-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohang-23/my-leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/rohang-23/my-leetcode-journey/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
