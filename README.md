@@ -218,6 +218,7 @@
 | [0509-fibonacci-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/rohang-23/my-leetcode-journey/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rohang-23/my-leetcode-journey/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -309,6 +310,7 @@
 | [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/rohang-23/my-leetcode-journey/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
