@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rohang-23/my-leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
@@ -146,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0179-largest-number) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohang-23/my-leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
