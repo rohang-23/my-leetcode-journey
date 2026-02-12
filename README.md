@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rohang-23/my-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
@@ -101,6 +102,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohang-23/my-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rohang-23/my-leetcode-journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rohang-23/my-leetcode-journey/tree/master/0605-can-place-flowers) |
@@ -170,6 +172,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohang-23/my-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
