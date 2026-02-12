@@ -25,6 +25,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohang-23/my-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/rohang-23/my-leetcode-journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
@@ -251,6 +253,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rohang-23/my-leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rohang-23/my-leetcode-journey/tree/master/0724-find-pivot-index) |
@@ -347,4 +350,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
