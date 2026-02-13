@@ -14,7 +14,7 @@ public:
             return;
         }
         
-        sort(nums.begin()+index+1,nums.end());
+        reverse(nums.begin()+index+1,nums.end());
         
         int j = -1;
         for(int i = index + 1;i<n;i++){
