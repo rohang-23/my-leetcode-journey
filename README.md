@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rohang-23/my-leetcode-journey/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/rohang-23/my-leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rohang-23/my-leetcode-journey/tree/master/0066-plus-one) |
@@ -179,6 +180,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rohang-23/my-leetcode-journey/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/rohang-23/my-leetcode-journey/tree/master/0141-linked-list-cycle) |
