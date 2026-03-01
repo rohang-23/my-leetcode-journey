@@ -83,6 +83,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rohang-23/my-leetcode-journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohang-23/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
@@ -379,4 +380,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rohang-23/my-leetcode-journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
