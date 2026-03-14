@@ -132,6 +132,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
