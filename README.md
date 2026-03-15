@@ -130,6 +130,7 @@
 | [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/rohang-23/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/rohang-23/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
