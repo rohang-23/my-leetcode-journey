@@ -65,6 +65,7 @@
 | [2326-spiral-matrix-iv](https://github.com/rohang-23/my-leetcode-journey/tree/master/2326-spiral-matrix-iv) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2683-neighboring-bitwise-xor](https://github.com/rohang-23/my-leetcode-journey/tree/master/2683-neighboring-bitwise-xor) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -134,6 +135,7 @@
 | [0645-set-mismatch](https://github.com/rohang-23/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2683-neighboring-bitwise-xor](https://github.com/rohang-23/my-leetcode-journey/tree/master/2683-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
