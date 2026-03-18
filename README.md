@@ -127,6 +127,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohang-23/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rohang-23/my-leetcode-journey/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rohang-23/my-leetcode-journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rohang-23/my-leetcode-journey/tree/master/0191-number-of-1-bits) |
@@ -231,6 +232,7 @@
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rohang-23/my-leetcode-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/rohang-23/my-leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rohang-23/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rohang-23/my-leetcode-journey/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0179-largest-number) |
@@ -249,6 +251,7 @@
 | [0009-palindrome-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rohang-23/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rohang-23/my-leetcode-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rohang-23/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohang-23/my-leetcode-journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0263-ugly-number) |
@@ -274,6 +277,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rohang-23/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
