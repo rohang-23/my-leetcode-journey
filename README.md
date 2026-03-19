@@ -57,6 +57,7 @@
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/rohang-23/my-leetcode-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/rohang-23/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
+| [1920-build-array-from-permutation](https://github.com/rohang-23/my-leetcode-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rohang-23/my-leetcode-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2058-concatenation-of-array) |
