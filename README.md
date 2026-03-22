@@ -68,6 +68,7 @@
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/rohang-23/my-leetcode-journey/tree/master/2683-neighboring-bitwise-xor) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohang-23/my-leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/rohang-23/my-leetcode-journey/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rohang-23/my-leetcode-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rohang-23/my-leetcode-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -93,6 +94,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/rohang-23/my-leetcode-journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohang-23/my-leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rohang-23/my-leetcode-journey/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohang-23/my-leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/rohang-23/my-leetcode-journey/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
@@ -219,6 +222,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohang-23/my-leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
