@@ -383,6 +383,7 @@
 | [0206-reverse-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/rohang-23/my-leetcode-journey/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -401,6 +402,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/rohang-23/my-leetcode-journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0707-design-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/0707-design-linked-list) |
 ## Interactive
 |  |
 | ------- |
