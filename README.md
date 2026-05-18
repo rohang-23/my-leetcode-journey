@@ -1,4 +1,5 @@
-# my-leetcode-journey
+# my-leetcode-journey<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
+
  My daily DSA practice solutions from LeetCode . Tracking progress, learning, and consistency.
 
 <!---LeetCode Topics Start-->
