@@ -229,6 +229,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohang-23/my-leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rohang-23/my-leetcode-journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rohang-23/my-leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/rohang-23/my-leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/rohang-23/my-leetcode-journey/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3379-score-of-a-string](https://github.com/rohang-23/my-leetcode-journey/tree/master/3379-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/rohang-23/my-leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
