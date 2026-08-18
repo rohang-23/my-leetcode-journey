@@ -429,6 +429,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/rohang-23/my-leetcode-journey/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/rohang-23/my-leetcode-journey/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rohang-23/my-leetcode-journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
