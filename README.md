@@ -426,4 +426,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rohang-23/my-leetcode-journey/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/rohang-23/my-leetcode-journey/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
