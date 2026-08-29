@@ -22,6 +22,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rohang-23/my-leetcode-journey/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohang-23/my-leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohang-23/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/0162-find-peak-element) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohang-23/my-leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohang-23/my-leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/rohang-23/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/0509-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
