@@ -54,6 +54,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/rohang-23/my-leetcode-journey/tree/master/1138-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rohang-23/my-leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rohang-23/my-leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1503-reducing-dishes](https://github.com/rohang-23/my-leetcode-journey/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
