@@ -61,6 +61,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/rohang-23/my-leetcode-journey/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/rohang-23/my-leetcode-journey/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/rohang-23/my-leetcode-journey/tree/master/1646-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/rohang-23/my-leetcode-journey/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rohang-23/my-leetcode-journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohang-23/my-leetcode-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rohang-23/my-leetcode-journey/tree/master/1920-build-array-from-permutation) |
@@ -122,6 +123,7 @@
 | [0463-island-perimeter](https://github.com/rohang-23/my-leetcode-journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0566-reshape-the-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/rohang-23/my-leetcode-journey/tree/master/0891-score-after-flipping-matrix) |
+| [1672-richest-customer-wealth](https://github.com/rohang-23/my-leetcode-journey/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/rohang-23/my-leetcode-journey/tree/master/2326-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/rohang-23/my-leetcode-journey/tree/master/2722-prime-in-diagonal) |
 ## Greedy
